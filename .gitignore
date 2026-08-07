@@ -1,0 +1,35 @@
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.user
+*.rsuser
+*.suo
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# NuGet
+*.nupkg
+*.nuspec
+.nuget/
+
+# Local environment
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.idea/
+*.swp
+*.swo
+*~
+
+# Application specific
+appsettings.Development.json
+*.log
