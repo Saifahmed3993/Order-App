@@ -438,13 +438,21 @@ in the Software without restriction...
 
 ---
 
-## 👤 About the Author
+## 👨‍💻 About the Author
 
 **Saif Ahmed**
-- 🔗 GitHub: [@Saifahmed3993](https://github.com/Saifahmed3993)
-- 💼 LinkedIn: [Your LinkedIn]
-- 📧 Email: [Your Email]
 
+Full-Stack .NET Developer | Business Information Systems (BIS) Student
+
+I'm passionate about building scalable ASP.NET Core applications, creating modern web interfaces, and continuously improving my backend development skills.
+
+### 📬 Connect with Me
+
+- 🔗 **GitHub:** https://github.com/Saifahmed3993
+- 💼 **LinkedIn:** https://www.linkedin.com/in/saif-aldin-ahmed
+- 📧 **Email:** saifahmedelbattawy@gmail.com
+
+Feel free to connect with me for collaboration, feedback, or opportunities.
 ---
 
 ## 💬 Support & Feedback
@@ -510,7 +518,9 @@ Please include:
 
 **[⬆ Back to Top](#-order-app---modern-order-management-system)**
 
-Made with ❤️ by Saif Ahmed | © 2026 All Rights Reserved
+Made with ❤️ by **Saif Ahmed**
+
+⭐ If you found this project helpful, don't forget to star the repository.
 
 ![GitHub followers](https://img.shields.io/github/followers/Saifahmed3993?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Saifahmed3993?style=social)
